@@ -12,8 +12,7 @@ Las normas de acceso son las siguientes:
 Vamos a crear dos variantes de un mismo programa para ayudar a Beyoncé: una con variables y condicionales, y otra con funciones. Escribe todo tu código en el archivo index.js y utiliza la consola de tu navegador para ver los mensajes que se retornan. 
 
 **¡De ti depende que el concierto no sea un caos!**
-```
-```
+
 
 ## Parte 1: Variables y condicionales
 Crea una variable de edad con 'let' y asóciala al número 16. Alternativamente, si ya sabes JavaScript, crea un objeto Asistente que contenga un nombre, una edad, y un booleano para determinar si tiene o no ticket. 
@@ -23,8 +22,7 @@ Ahora crea un condicional que refleje las diferentes normas de acceso indicadas 
 - Si la persona tiene entre 14 yy 17 años (ambos incluídos), debemos retornar un mensaje que diga "Puedes entrar, pero sólo si te acompaña una persona mayor de edad."
 - Si la persona tiene 13 años o menos, debemos retornar "Lo siento, eres demasiado joven, vuelve a intentarlo en unos años."
 
-```
-```
+
 
 ## Parte 2: Funciones
 Refactoriza el código anterior en una única función que se llame gestionarAdmision(). Ejecútala y comprueba el resultado de esta función con las siguientes edades: 0, 8, 12, 14, 17, 18, 35 y 99.
